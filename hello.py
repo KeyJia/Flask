@@ -36,7 +36,7 @@ def ppp():
 
 @app.route('/')
 def a():
-    return redirect('http://www.zjcap.cn')
+    return redirect('http://www.taobao.cn')
 
 
 
